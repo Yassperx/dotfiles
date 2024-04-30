@@ -16,14 +16,14 @@ tcreate() {
 alias clip="xclip -selection clipboard"
 alias ipy="ipython"
 alias py="python"
-alias stxt="/mnt/d/Programs/Sublime\ Text/SublimeText/sublime_text.exe"
 
 ## built in
 alias lc='ls --color=never'
 alias ls='ls --color=auto' 
 alias la="ls -a"
-alias ll="ls -l"
+alias ll="ls -CF"
 alias mk="mkdir"
 alias gwd="explorer.exe ."
 alias q="exit"
 alias tt="tree"
+alias ref="source ~/.zshrc"
