@@ -9,13 +9,7 @@ Ensure you have the following installed on your system
 ### Git
 
 ```
-pacman -S git
-```
-
-### Stow
-
-```
-pacman -S stow
+sudo apt install git
 ```
 
 ## Installation
@@ -27,8 +21,8 @@ $ git clone git@github.com/dreamsofautonomy/dotfiles.git
 $ cd dotfiles
 ```
 
-then use GNU stow to create symlinks
+Then create symlinks by : 
 
 ```
-$ stow .
+$ ln -s
 ```
