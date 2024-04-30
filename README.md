@@ -17,7 +17,7 @@ sudo apt install git
 First, check out the dotfiles repo in your $HOME directory using git
 
 ```
-$ git clone git@github.com/dreamsofautonomy/dotfiles.git
+$ git clone git@github.com/yassperx/dotfiles.git
 $ cd dotfiles
 ```
 
